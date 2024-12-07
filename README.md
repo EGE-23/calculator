@@ -1,4 +1,4 @@
-Motoko playground üzerinden hesap makinesi yapıldı ve kodun lini buradan da paylaşıldı ekstra.
+Motoko playground üzerinden hesap makinesi yapıldı ve kodun linki buradan da paylaşıldı ekstra.
 
 
 
